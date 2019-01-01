@@ -1,3 +1,5 @@
+let loadAllItems = require("items.js");
+
 function getPrice(order) {
   let item = loadAllItems();
   for (let numbering of order) {

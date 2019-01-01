@@ -1,3 +1,5 @@
+let loadPromotions = require("promotions");
+
 function comparativeOffer(one, two) {
   let promotion;
   let orderList = loadPromotions();
