@@ -8,3 +8,4 @@ function discountPrice(one, two) {
   }
   return price;
 }
+module.exports = discountPrice;

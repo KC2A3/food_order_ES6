@@ -10,3 +10,4 @@ function comparativeOffer(one, two) {
   }
   return promotion;
 }
+module.exports = comparativeOffer;

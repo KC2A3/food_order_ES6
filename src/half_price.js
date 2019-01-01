@@ -11,3 +11,4 @@ function halfPrice(order) {
   }
   return totalPrice;
 }
+module.exports = halfPrice;

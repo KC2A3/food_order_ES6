@@ -22,3 +22,4 @@ function printList(list, promotion, originalPrice, totalPrice) {
   receipt += '===================================';
   return receipt;
 }
+module.exports = printList;

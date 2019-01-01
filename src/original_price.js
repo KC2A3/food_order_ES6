@@ -5,3 +5,4 @@ function originalPrice(order) {
   }
   return totalPrice;
 }
+module.exports = originalPrice;

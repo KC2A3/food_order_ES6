@@ -8,3 +8,4 @@ function discount(order) {
   }
   return totalPrice;
 }
+module.exports = discount;

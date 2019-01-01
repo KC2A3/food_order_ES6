@@ -10,3 +10,4 @@ function getPrice(order) {
   }
   return order;
 }
+module.exports = getPrice;

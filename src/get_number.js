@@ -9,3 +9,4 @@ function getNumber(listArr) {
   }
   return order;
 }
+module.exports = getNumber;
